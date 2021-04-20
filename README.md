@@ -51,9 +51,9 @@ p {
                 <ul><span style="color:red;">Логика пространста</span></ul>
                 <ul><span style="color:red;">Самовоспроизведение и информация</span></ul>
 	</ol>
-	<a href=https://justgold1991.github.io/escer1.github.io/> Страница 2 </a>
+	<a href=htps://.github.io/escer1.gith
 <p> </p>
- <a href=https://justgold1991.github.io/escher2.github.io/>Страница 3 </a>  
+ <a href=https://justgold1991.github.io/escher2.github.io/> </a>  
 </body>
 </html>
 
